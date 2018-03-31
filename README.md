@@ -5,7 +5,7 @@ Program Director: [Monica Berti](http://www.monicaberti.com/)
 
 Co-Director: [Gabriel Bodard](https://wiki.digitalclassicist.org/User:GabrielBodard)
 
-GitHub Pages: [https://sunoikisisdc.github.io/](https://sunoikisisdc.github.io/)
+[GitHub Pages](https://sunoikisisdc.github.io/)
 
 SunoikisisDC is an international consortium of Digital Classics programs developed by the [Alexander von Humboldt Chair of Digital Humanities at the University of Leipzig](http://www.dh.uni-leipzig.de/wo/) in collaboration with the Harvard’s [Center for Hellenic Studies](http://chs.harvard.edu/) and the [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/).
 
