@@ -9,7 +9,7 @@ Website: [http://www.dh.uni-leipzig.de/wo/sunoikisisdc](http://www.dh.uni-leipzi
 
 GitHub Pages: [https://sunoikisisdc.github.io](https://sunoikisisdc.github.io)
 
-SunoikisisDC is an international consortium of Digital Classics programs developed by the [Alexander von Humboldt Chair of Digital Humanities at the University of Leipzig](http://www.dh.uni-leipzig.de/wo/) in collaboration with the Harvard’s [Center for Hellenic Studies](http://chs.harvard.edu/) and the [Institute of Classical Studies London] (https://ics.sas.ac.uk/).
+SunoikisisDC is an international consortium of Digital Classics programs developed by the [Alexander von Humboldt Chair of Digital Humanities at the University of Leipzig](http://www.dh.uni-leipzig.de/wo/) in collaboration with the Harvard’s [Center for Hellenic Studies](http://chs.harvard.edu/) and the [Institute of Classical Studies London](https://ics.sas.ac.uk/).
 
 The goal is to extend [Sunoikisis CHS](https://www.sunoikisis.org/) to a global audience and contribute to it with a teaching program focused on the application of digital technologies to the study of Greek and Latin. The aim is to offer collaborative courses that foster interdisciplinary paradigms of learning. Master students of both the humanities and computer science are welcome to join the courses and work together by contributing to digital classics projects in a collaborative environment.
 
