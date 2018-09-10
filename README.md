@@ -30,6 +30,7 @@ The National Endowment for the Humanities (NEH) has granted us support for a Sun
 * [SunoikisisDC 2016](https://github.com/SunoikisisDC/SunoikisisDC-2016)
 * [SunoikisisDC 2016-2017](https://github.com/SunoikisisDC/SunoikisisDC-2016-2017) (Winter Semester 2016 and Summer Semester 2017)
 * [SunoikisisDC 2017-2018](https://github.com/SunoikisisDC/SunoikisisDC-2017-2018) (Winter Semester 2017, Spring Semester 2018, and Summer Semester 2018)
+* [Sunoikisis 2018-2019](https://github.com/SunoikisisDC/SunoikisisDC-2018-2019) (Winter Semester 2018, Spring Semester 2019, and Summer Semester 2019)
 
 ***
 #### Affiliated Institutions
