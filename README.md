@@ -9,7 +9,9 @@ The program started in 2015 and the original goal was to extend the Sunoikisis p
 
 SunoikisisDC started in the SS 2015 with a Digital Classics course involving 12 countries. Faculty members of participating institutions gathered at the University of Leipzig in [2015](http://www.dh.uni-leipzig.de/wo/sunoikisisdc-2015/), [2016](http://www.dh.uni-leipzig.de/wo/sunoikisisdc-2016/), and [2017](http://www.dh.uni-leipzig.de/wo/sunoikisisdc-2017/) for planning seminars in order to discuss course topics, schedule the academic calendar, and create the course syllabi. In the Fall 2016 we started a new track of SunoikisisDC based at the Institute of Classical Studies in London.
 
-We currently have a community of instructors and students from more than 90 institutions from all around the world mapped on our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh). Stay tuned!
+We currently have a community of instructors and students from more than 90 institutions from all around the world mapped on our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh).
+
+Our program is constantly evolving and growing. Stay tuned!
 
 ***
 #### Program Directors
