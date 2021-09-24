@@ -37,8 +37,7 @@ We currently have a community of instructors and students from more than 90 inst
 * Andrea Wallace (Exeter)
 * Alicia Walsh (Recollection Heritage)
 * Polina Yordanova (Helsinki)
-
-+ Over 100 individual contributing faculty worldwide
+* /+ Over 100 individual contributing faculty worldwide
 
 ***
 #### SunoikisisDC Community
