@@ -33,9 +33,8 @@ We currently have a community of instructors and students from more than 90 inst
 
 ***
 #### Host Institutions
-Universität Leipzig
-University of London
-See Google Map for other contributing institutions
+* Universität Leipzig
+* University of London
 
 ***
 #### Syllabus organizers
