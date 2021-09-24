@@ -10,7 +10,7 @@ The goal is to extend [Sunoikisis CHS](https://www.sunoikisis.org/) to a global 
 SunoikisisDC started in the SS 2015 with a Digital Classics course involving 12 countries. Faculty members of participating institutions gathered at the University of Leipzig on February 16-18, 2015 for a planning seminar in order to discuss course topics, schedule the academic calendar, and create the course syllabus.
 The SunoikisisDC 2016 and SunoikisisDC 2017 planning seminars were held at the University of Leipzig on December 16-17, 2015 and on December 12-13, 2016. In the Fall 2016 we started a new track of SunoikisisDC based at the Institute of Classical Studies in London.
 
-We currently have a community of instructors and students from more than 90 institutions from all around the world (see our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh)). Stay tuned!
+We currently have a community of instructors and students from more than 90 institutions from all around the world mapped on our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh). Stay tuned!
 
 ***
 #### Program Directors
