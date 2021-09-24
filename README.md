@@ -22,14 +22,14 @@ We currently have a community of instructors and students from more than 90 inst
 ***
 #### Academic Years
 
-* [SunoikisisDC 2015](https://github.com/SunoikisisDC/SunoikisisDC-2015)
-* [SunoikisisDC 2016](https://github.com/SunoikisisDC/SunoikisisDC-2016)
-* [SunoikisisDC 2016-2017](https://github.com/SunoikisisDC/SunoikisisDC-2016-2017) (Winter Semester 2016 and Summer Semester 2017)
-* [SunoikisisDC 2017-2018](https://github.com/SunoikisisDC/SunoikisisDC-2017-2018) (Winter Semester 2017, Spring Semester 2018, and Summer Semester 2018)
-* [SunoikisisDC 2018-2019](https://github.com/SunoikisisDC/SunoikisisDC-2018-2019) (Winter Semester 2018, Spring Semester 2019, and Summer Semester 2019)
-* [SunoikisisDC 2019-2020](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020) (Winter Semester 2019, Spring Semester 2020, and Summer Semester 2020)
-* [SunoikisisDC 2020-2021](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021) (Winter Semester 2020, Spring Semester 2021, and Summer Semester 2021)
 * [SunoikisisDC 2021-2022](https://github.com/SunoikisisDC/SunoikisisDC-2021-2022) (Winter Semester 2021, Spring Semester 2022, and Summer Semester 2022)
+* [SunoikisisDC 2020-2021](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021) (Winter Semester 2020, Spring Semester 2021, and Summer Semester 2021)
+* [SunoikisisDC 2019-2020](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020) (Winter Semester 2019, Spring Semester 2020, and Summer Semester 2020)
+* [SunoikisisDC 2018-2019](https://github.com/SunoikisisDC/SunoikisisDC-2018-2019) (Winter Semester 2018, Spring Semester 2019, and Summer Semester 2019)
+* [SunoikisisDC 2017-2018](https://github.com/SunoikisisDC/SunoikisisDC-2017-2018) (Winter Semester 2017, Spring Semester 2018, and Summer Semester 2018)
+* [SunoikisisDC 2016-2017](https://github.com/SunoikisisDC/SunoikisisDC-2016-2017) (Winter Semester 2016 and Summer Semester 2017)
+* [SunoikisisDC 2016](https://github.com/SunoikisisDC/SunoikisisDC-2016)
+* [SunoikisisDC 2015](https://github.com/SunoikisisDC/SunoikisisDC-2015)
 
 ***
 #### Affiliated Institutions
