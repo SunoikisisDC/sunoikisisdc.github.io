@@ -26,18 +26,17 @@ We currently have a community of instructors and students from more than 90 inst
 #### Syllabus organizers
 * Tom Elliott (New York University)
 * Paula Granados (British Museum)
-* Dimitar Iliev (Sofia)
-* Neven Jovanovič (Zagreb)
-* Dimitar Iliev (Sofia)
-* Martina Astrid Rodda (Oxford)
-* Irene Vagionakis (Bologna)
-* Rada Varga (Cluj Napoca)
-* Marja Vierros (Helsinki)
+* Dimitar Iliev (University of Sofia)
+* Neven Jovanovič (University of Zagreb)
+* Kenny Morrell (Rhodes College)
+* Martina Astrid Rodda (Oxford University)
+* Irene Vagionakis (University of Bologna)
+* Rada Varga (University of Cluj Napoca)
+* Marja Vierros (University of Helsinki)
 * Valeria Vitale (Alan Turing Institute)
-* Andrea Wallace (Exeter)
+* Andrea Wallace (University of Exeter)
 * Alicia Walsh (Recollection Heritage)
-* Polina Yordanova (Helsinki)
-* /+ Over 100 individual contributing faculty worldwide
+* Polina Yordanova (University of Helsinki)
 
 ***
 #### SunoikisisDC Community
