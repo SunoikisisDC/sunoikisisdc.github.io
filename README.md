@@ -1,9 +1,9 @@
 # SunoikisisDC
 An International Consortium of Digital Classics Programs
 
-Program Directors : [Monica Berti](http://www.monicaberti.com/) and [Gabriel Bodard](https://wiki.digitalclassicist.org/User:GabrielBodard)
+Program Directors : [Monica Berti](http://www.monicaberti.com/) (Universität Leipzig) and [Gabriel Bodard](https://wiki.digitalclassicist.org/User:GabrielBodard) (ICS London)
 
-GitHub Pages: [https://sunoikisisdc.github.io](https://sunoikisisdc.github.io)
+Website: [https://sunoikisisdc.github.io](https://sunoikisisdc.github.io)
 
 SunoikisisDC is an international consortium of Digital Classics programs originally developed by the [Alexander von Humboldt Chair of Digital Humanities at the University of Leipzig](http://www.dh.uni-leipzig.de/wo/) in collaboration with the Harvard’s [Center for Hellenic Studies](http://chs.harvard.edu/) and the [Institute of Classical Studies London](https://ics.sas.ac.uk/).
 
@@ -32,15 +32,29 @@ We currently have a community of instructors and students from more than 90 inst
 * [SunoikisisDC 2015](https://github.com/SunoikisisDC/SunoikisisDC-2015)
 
 ***
-#### Affiliated Institutions
+#### Host Institutions
+Universität Leipzig
+University of London
+See Google Map for other contributing institutions
 
-* Institute of Classical Studies, London
-* Ivane Javakhishvili Tbilisi State University ( ივანე ჯავახიშვილის სახელობის თბილისის სახელმწიფო უნივერსიტეტი)
-* Tufts University
-* Universidade Estadual Paulista (UNESP) – Câmpus de Araraquara
-* University of Florida
-* Universität Leipzig
-* Université Lumière Lyon 2 - [SunoikisisDC in Lyon](http://sunoikisisdclyon.postach.io/post/le-programme-sunoikisis-dc-br-sa-mise-en-oeuvre-a-lyon)
-* University of Oslo
-* University of Sofia (Софийски университет „Св. Климент Охридски“)
-* University of Zagreb (Sveučilište u Zagrebu)
+***
+#### Syllabus organizers
+* Tom Elliott (New York University)
+* Paula Granados (British Museum)
+* Dimitar Iliev (Sofia)
+* Neven Jovanovič (Zagreb)
+* Dimitar Iliev (Sofia)
+* Martina Astrid Rodda (Oxford)
+* Irene Vagionakis (Bologna)
+* Rada Varga (Cluj Napoca)
+* Marja Vierros (Helsinki)
+* Valeria Vitale (Alan Turing Institute)
+* Andrea Wallace (Exeter)
+* Alicia Walsh (Recollection Heritage)
+* Polina Yordanova (Helsinki)
+* + Over 100 individual contributing faculty worldwide
+
+***
+#### SunoikisisDC Community
+We currently have a community of instructors and students from more than 90 institutions from all around the world. See our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh))
+
