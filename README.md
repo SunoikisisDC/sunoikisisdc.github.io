@@ -1,11 +1,7 @@
 # SunoikisisDC
 An International Consortium of Digital Classics Programs
 
-Program Director: [Monica Berti](http://www.monicaberti.com/)
-
-Co-Director: [Gabriel Bodard](https://wiki.digitalclassicist.org/User:GabrielBodard)
-
-Website: [http://www.dh.uni-leipzig.de/wo/sunoikisisdc](http://www.dh.uni-leipzig.de/wo/sunoikisisdc)
+Program Directors : [Monica Berti](http://www.monicaberti.com/) and [Gabriel Bodard](https://wiki.digitalclassicist.org/User:GabrielBodard)
 
 GitHub Pages: [https://sunoikisisdc.github.io](https://sunoikisisdc.github.io)
 
