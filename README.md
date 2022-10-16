@@ -45,6 +45,7 @@ We currently have a community of instructors and students from more than 90 inst
 
 ***
 #### Academic Years
+* [SunoikisisDC 2022-2023](https://github.com/SunoikisisDC/SunoikisisDC-2022-2023) (Winter Semester 2022, Spring Semester 2023, and Summer Semester 2023) 
 * [SunoikisisDC 2021-2022](https://github.com/SunoikisisDC/SunoikisisDC-2021-2022) (Winter Semester 2021, Spring Semester 2022, and Summer Semester 2022)
 * [SunoikisisDC 2020-2021](https://github.com/SunoikisisDC/SunoikisisDC-2020-2021) (Winter Semester 2020, Spring Semester 2021, and Summer Semester 2021)
 * [SunoikisisDC 2019-2020](https://github.com/SunoikisisDC/SunoikisisDC-2019-2020) (Winter Semester 2019, Spring Semester 2020, and Summer Semester 2020)
