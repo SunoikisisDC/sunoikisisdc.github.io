@@ -11,7 +11,7 @@ SunoikisisDC started in the SS 2015 with a Digital Classics course involving 12 
 
 We currently have a community of instructors and students from more than 90 institutions from all around the world mapped on our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh).
 
-We are also working on a [Zotero Group](https://www.zotero.org/groups/4303839/sunoikisisdc) to collect all our bibliographic resources.
+Thanks to the generous support of the [Digitale Lehre](https://www.zls.uni-leipzig.de/newsdetail/artikel/projektfoerderung-digitale-lehre-innovativ-und-vernetzt-2022-10-10) initiative at the University of Leipzig, we are also working on a [Zotero Group](https://www.zotero.org/groups/4303839/sunoikisisdc) to list all our bibliographic resources and on database to collect information about each session of the program.
 
 Our program is constantly evolving and growing. Stay tuned!
 
