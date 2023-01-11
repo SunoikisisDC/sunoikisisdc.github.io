@@ -3,7 +3,7 @@ An International Consortium of Digital Classics Programs
 
 Website: [https://sunoikisisdc.github.io](https://sunoikisisdc.github.io)
 
-SunoikisisDC is an international consortium of Digital Classics programs originally developed by the [Alexander von Humboldt Chair of Digital Humanities at the University of Leipzig](http://www.dh.uni-leipzig.de/wo/) in collaboration with the Harvard’s [Center for Hellenic Studies](http://chs.harvard.edu/) and the [Institute of Classical Studies London](https://ics.sas.ac.uk/).
+SunoikisisDC is an international consortium of Digital Classics programs originally developed by the [Alexander von Humboldt Chair of Digital Humanities at the University of Leipzig](http://www.dh.uni-leipzig.de/wo/) in collaboration with the Harvard’s [Center for Hellenic Studies](http://chs.harvard.edu/) and the [Institute of Classical Studies, London](https://ics.sas.ac.uk/).
 
 The program started in 2015 and the original goal was to extend the Sunoikisis program of the Center for Hellenic Studies to a global audience and contribute to it with a teaching program focused on the application of digital technologies to the study of Greek and Latin. Since then SunoikisisDC has grown up and is now an independent program, whose aim is to offer collaborative courses that foster interdisciplinary paradigms of learning. Master students of both the humanities and computer science are welcome to join the courses and work together by contributing to digital classics projects in a collaborative environment.
 
@@ -28,9 +28,10 @@ Our program is constantly evolving and growing. Stay tuned!
 ***
 #### Syllabus organizers
 * Tom Elliott (New York University)
-* Paula Granados (British Museum)
+* Paula Granados García (British Museum)
 * Dimitar Iliev (University of Sofia)
 * Neven Jovanovič (University of Zagreb)
+* Rhiannon Lewis (University of London & Science Museums Group)
 * Kenny Morrell (Rhodes College)
 * Martina Astrid Rodda (Oxford University)
 * Irene Vagionakis (University of Bologna)
