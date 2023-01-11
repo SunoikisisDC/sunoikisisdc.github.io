@@ -37,7 +37,7 @@ Our program is constantly evolving and growing. Stay tuned!
 * Irene Vagionakis (University of Bologna)
 * Rada Varga (University of Cluj Napoca)
 * Marja Vierros (University of Helsinki)
-* Valeria Vitale (Alan Turing Institute)
+* Valeria Vitale (University of Sheffield)
 * Andrea Wallace (University of Exeter)
 * Alicia Walsh (Recollection Heritage)
 * Polina Yordanova (University of Helsinki)
