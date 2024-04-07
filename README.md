@@ -30,6 +30,7 @@ Our program is constantly evolving and growing. Stay tuned!
 ***
 #### Syllabus organizers
 * Tom Elliott (New York University)
+* Martina Filosa (University of Cologne)
 * Paula Granados García (British Museum)
 * Dimitar Iliev (University of Sofia)
 * Neven Jovanovič (University of Zagreb)
@@ -50,6 +51,7 @@ We currently have a community of instructors and students from more than 90 inst
 
 ***
 #### Academic Years
+* [SunoikisisDC 2024-2025](https://github.com/SunoikisisDC/SunoikisisDC-2024-2025) (Spring Semester 2024 and Summer Semester 2024)
 * [SunoikisisDC 2023-2024](https://github.com/SunoikisisDC/SunoikisisDC-2023-2024) (Spring Semester 2024 and Summer Semester 2024)
 * [SunoikisisDC 2022-2023](https://github.com/SunoikisisDC/SunoikisisDC-2022-2023) (Winter Semester 2022, Spring Semester 2023, and Summer Semester 2023) 
 * [SunoikisisDC 2021-2022](https://github.com/SunoikisisDC/SunoikisisDC-2021-2022) (Winter Semester 2021, Spring Semester 2022, and Summer Semester 2022)
