@@ -37,6 +37,7 @@ Our program is constantly evolving and growing. Stay tuned!
 * Rhiannon Lewis (University of London & Science Museums Group)
 * Kenny Morrell (Rhodes College)
 * Martina Astrid Rodda (Oxford University)
+* Katharine Shields (King's College London)
 * Irene Vagionakis (University of Bologna)
 * Rada Varga (University of Cluj Napoca)
 * Marja Vierros (University of Helsinki)
