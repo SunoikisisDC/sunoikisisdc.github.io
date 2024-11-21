@@ -20,7 +20,7 @@ Our program is constantly evolving and growing. Stay tuned!
 ***
 #### Program Directors
 * [Monica Berti](http://www.monicaberti.com/) (Universität Leipzig)
-* [Gabriel Bodard](https://wiki.digitalclassicist.org/User:GabrielBodard) (ICS London)
+* [Gabriel Bodard](https://wiki.digitalclassicist.org/User:GabrielBodard) (University of London)
 
 ***
 #### Host Institutions
