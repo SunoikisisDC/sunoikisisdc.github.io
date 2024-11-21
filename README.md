@@ -36,6 +36,7 @@ Our program is constantly evolving and growing. Stay tuned!
 * Neven Jovanovič (University of Zagreb)
 * Rhiannon Lewis (University of London & Science Museums Group)
 * Kenny Morrell (Rhodes College)
+* Chiara Palladino (Furman University)
 * Martina Astrid Rodda (Oxford University)
 * Katharine Shields (King's College London)
 * Irene Vagionakis (University of Bologna)
