@@ -9,7 +9,7 @@ The program started in 2015 and the original goal was to extend the Sunoikisis p
 
 SunoikisisDC started in the SS 2015 with a Digital Classics course involving 12 countries. Faculty members of participating institutions gathered at the University of Leipzig in 2015, 2016, and 2017 for planning seminars in order to discuss course topics, schedule the academic calendar, and create the course syllabi. In the Fall 2016 we started a new track of SunoikisisDC based at the Institute of Classical Studies in London.
 
-We currently have a community of instructors and students from nearly 120 institutions from all around the world mapped on our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh).
+We currently have a community of instructors and students from over 135 institutions from all around the world mapped on our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh).
 
 Thanks to the generous support of the ["Digitale Lehre: Innovativ und vernetzt"](https://www.zls.uni-leipzig.de/newsdetail/artikel/projektfoerderung-digitale-lehre-innovativ-und-vernetzt-2022-10-10) initiative at Leipzig University in WS 2022/23, we have now two new resources:
 * [Zotero Group Library SunoikisisDC](https://www.zotero.org/groups/4303839/sunoikisisdc). A collection of bibliographic and digital resources from our SunoikisisDC sessions. The library has been created by Aron Teuscher at Leipzig University, who has also written [Guidelines](https://docs.google.com/document/d/1JxndqMu7vZ3uMV27FljP8Lq3bffvaWAO72bEKlp35As/edit?usp=sharing) for anyone who is interested in adding new entries. We kindly ask you all to follow these guidelines :)
@@ -45,10 +45,6 @@ Our program is constantly evolving and growing. Stay tuned!
 * Andrea Wallace (University of Exeter)
 * Alicia Walsh (Recollection Heritage)
 * Polina Yordanova (University of Helsinki)
-
-***
-#### SunoikisisDC Community
-We currently have a community of instructors and students from more than 135 institutions from all around the world: see our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh).
 
 ***
 #### Academic Years
