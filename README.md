@@ -48,7 +48,7 @@ Our program is constantly evolving and growing. Stay tuned!
 
 ***
 #### SunoikisisDC Community
-We currently have a community of instructors and students from more than 130 institutions from all around the world: see our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh).
+We currently have a community of instructors and students from more than 135 institutions from all around the world: see our [Google Map](https://www.google.com/maps/d/embed?mid=1xTwH_U4aowfj58vF359nKmHzBs39Ljuh).
 
 ***
 #### Academic Years
