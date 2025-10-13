@@ -26,6 +26,7 @@ Our program is constantly evolving and growing. Stay tuned!
 #### Host Institutions
 * [Universität Leipzig](https://www.uni-leipzig.de)
 * [University of London](https://london.ac.uk)
+* [Universität zu Köln](https://www.uni-koeln.de)
 
 ***
 #### Syllabus organizers
