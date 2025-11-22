@@ -50,6 +50,7 @@ Our program is constantly evolving and growing. Stay tuned!
 
 ***
 #### Academic Years
+* [SunoikisisDC 2025–2026](https://github.com/SunoikisisDC/SunoikisisDC-2025-2026) (Spring Semester 2026 and Summer Semester 2026)
 * [SunoikisisDC 2024–2025](https://github.com/SunoikisisDC/SunoikisisDC-2024-2025/wiki) (Spring Semester 2025)
 * [SunoikisisDC 2023-2024](https://github.com/SunoikisisDC/SunoikisisDC-2023-2024) (Spring Semester 2024 and Summer Semester 2024)
 * [SunoikisisDC 2022-2023](https://github.com/SunoikisisDC/SunoikisisDC-2022-2023) (Winter Semester 2022, Spring Semester 2023, and Summer Semester 2023) 
